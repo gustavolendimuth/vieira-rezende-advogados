@@ -1,6 +1,6 @@
 const biosList = document.querySelector('.flex-bios');
 const posicao = document.querySelectorAll('.posicao-single');
-const positions = ['Consultant', 'Associate', 'Partiner'];
+const positions = ['Consultant', 'Associate', 'Partner'];
 
 const sortOrder = (positions) => {
   for (let position of positions) {
